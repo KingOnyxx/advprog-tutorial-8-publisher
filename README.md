@@ -5,3 +5,5 @@ b. Both url are the same because both send request to the same rabbitMQ server. 
 ![rabbit dashboard](image1.png)
 ![alt text](image2.png)
 this screenshot shows that the publisher send 5 data to the queue.
+![alt text](image3.png)
+this screenshot shows that the chart has some spikes because the publisher has run multiple times.
